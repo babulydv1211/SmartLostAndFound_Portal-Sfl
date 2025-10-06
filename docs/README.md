@@ -7,23 +7,22 @@ A full-stack solution that allows students to **report, track, and match lost-an
 ---
 
 ## 🚀 Features
-- 🔑 User Authentication (JWT-based)
-- 👤 User Dashboard for reporting & tracking items
-- 🛠️ Admin Dashboard for managing lost/found data
-- 🤖 AI microservice for text & image similarity
-- 💾 MongoDB Atlas cloud database
-- 🎨 Beautiful UI with Tailwind CSS + Framer Motion animations
+- 🔑 User Authentication (JWT-based)  
+- 👤 User Dashboard for reporting & tracking items  
+- 🛠️ Admin Dashboard for managing lost/found data  
+- 🤖 AI microservice for text & image similarity  
+- 💾 MongoDB Atlas cloud database  
+- 🎨 Beautiful UI with Tailwind CSS + Framer Motion animations  
 
 ---
 
 ## 📂 Folder Structure
+```bash
 smart-lost-found-portal/
-├── frontend/ # React, Tailwind, Framer Motion client
-├── backend/ # Express REST API with JWT auth + MongoDB
-├── aiml-service/ # FastAPI microservice for similarity matching
-└── docs/ # Documentation assets
-
-
+├── frontend/       # React, Tailwind, Framer Motion client
+├── backend/        # Express REST API with JWT auth + MongoDB
+├── aiml-service/   # FastAPI microservice for similarity matching
+└── docs/           # Documentation assets
 
 ---
 
