@@ -38,7 +38,7 @@ smart-lost-found-portal/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/smart-lost-found-portal.git
+https://github.com/babulydv1211/SmartLostAndFound_Portal-Sfl.git
 cd smart-lost-found-portal
 
 ### Frontend Setup (React + Vite)
