@@ -58,7 +58,11 @@ PORT=4000
 MONGO_URI=your-mongodb-atlas-uri
 JWT_SECRET=your-secret-key
 EMAIL_USER=your-email@gmail.com
-EMAIL_PASSWORD=your-email-password
+EMAIL_PASSWORD=your-email-app password
+EMAIL_SERVICE=gmail
+EMAIL_HOST=smtp.gmail.com
+EMAIL_PORT=587
+
 
 
 Run backend:
